@@ -1,0 +1,18 @@
+path: /Users/caiyunfeng/invoice_ocr_web/datasets/invoice_yolo
+train: images/train
+val: images/val
+
+names:
+  0: invoice_type
+  1: invoice_code
+  2: invoice_no
+  3: invoice_date
+  4: checksum
+  5: buyer_name
+  6: buyer_tax_id
+  7: seller_name
+  8: seller_tax_id
+  9: amount
+  10: tax
+  11: total
+  12: drawer

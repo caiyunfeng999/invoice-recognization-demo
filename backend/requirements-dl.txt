@@ -1,0 +1,7 @@
+# Optional deep-learning detector runtimes.
+# Install these in pyhon11-opencv only when you need YOLO/Faster R-CNN local inference.
+
+torch
+torchvision
+ultralytics
+
